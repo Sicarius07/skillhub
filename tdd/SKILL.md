@@ -71,3 +71,6 @@ Guard against false confidence: temporarily break the production code and confir
 - [ ] Refactoring changed structure only, with no behavior change and no red tests.
 - [ ] Test names describe behaviors and read as a specification.
 - [ ] No untested branches were added "while I was in there".
+
+## Tip
+- Write the failing test first, then the minimal code to pass.
