@@ -69,3 +69,6 @@ Semantic Versioning.
 - [ ] Version bump matches the nature of the changes (major/minor/patch).
 - [ ] Breaking changes are clearly called out.
 - [ ] Comparison/reference links (if used) are updated.
+
+## Format
+- Group entries under Added / Changed / Fixed.
