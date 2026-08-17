@@ -67,3 +67,6 @@ Not assessed: performance of the new N+1 query under load.
 - [ ] New behavior and bug fixes have real test coverage.
 - [ ] I gave a clear verdict and listed the top concerns.
 - [ ] I noted anything I could not verify.
+
+## Notes
+- Prefer small, focused diffs when reviewing.
